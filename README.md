@@ -4,13 +4,11 @@ Goal:
 Players have to select the extra face on the left hand side.
 
 Overview:
-A JavaScript coding exercise that dynamically adds content to the DOM by appending and removing "children."
+A JavaScript coding exercise that dynamically adds content based on user activity.
 
 Key Activities:
 I use the JavaScript random() Method to place the smiley faces in random positions. I used an "onclick" Event Handler to allow the user to interact with the web page. The game gets progressively harder - and more fun! - the more you play. 
 
-Class:
-The game represents the final project in a Coursera course titled 'HTML, CSS and JavaScript.'
 
 JavaScript Principles Used
 - random() Method
@@ -18,7 +16,7 @@ JavaScript Principles Used
 - While loop
 - Variable Scope: Global/local variables
 - Dynamic images: document.createElement("img")
-- Removing / Appending Children
+- Removing / Appending Children to the DOM (Document Object Model).
 - "null" primitive value to cancel a player's errant mouse clicks
 
 Enjoy!
