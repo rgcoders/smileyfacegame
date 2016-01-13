@@ -1,0 +1,17 @@
+	img {
+		position:absolute;
+	}
+	
+	#leftSide {
+		position:absolute;
+		width:500px; 
+		height:500px;
+	}
+	
+	#rightSide {
+		left: 500px; 
+		border-left: 1px solid black; 
+		position:absolute;
+		width:500px; 
+		height:500px;
+	}
